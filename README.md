@@ -1,5 +1,5 @@
 ![MasterHead](https://wallpaperaccess.com/full/3959399.jpg)
-<h1 align="center">Hi 👋, I'm Ramsha Siddiqui</h1>
+<h1 align="center">Hi <img align="center" alt="Coding" width="70" src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif">, I'm Ramsha Siddiqui</h1>
 <h3 align="center">I am an aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/07/dream-job_new1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsha8267&label=Profile%20views&color=0e75b6&style=flat" alt="ramsha8267" /> </p>
